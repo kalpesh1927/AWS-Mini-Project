@@ -28,4 +28,4 @@ Follow these instructions to set up and deploy AWS resources:
 You can clone the repository to explore the AWS configurations:
 
 ```bash
-git clone https://github.com/kksworl1927/AWS-Mini-Project.git
+git clone https://github.com/kalpesh1927/AWS-Mini-Project.git
