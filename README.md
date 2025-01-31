@@ -15,6 +15,17 @@ This project demonstrates my ability to build a scalable and secure cloud infras
 - **Auto Scaling**: Configured Auto Scaling to adjust resources based on demand.
 - **RDS (Relational Database Service)**: Managed databases for scalable, high-performance applications.
 
+## Tools & Technologies Used
+- **AWS EC2**: Deployed and managed virtual machines to run applications.
+- **Amazon S3**: Configured storage for secure data management.
+- **IAM**: Implemented Role-Based Access Control (RBAC) for security.
+- **RDS**: Used AWS RDS for scalable, managed database solutions.
+- **CloudFormation**: Automated infrastructure deployment.
+- **Auto Scaling**: Configured dynamic scaling based on traffic load.
+- **AWS CLI**: Used AWS CLI for managing resources programmatically.
+
+These tools helped me build a scalable and secure cloud infrastructure.
+
 ## Getting Started
 Follow these instructions to set up and deploy AWS resources:
 
